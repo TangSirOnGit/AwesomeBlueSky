@@ -6,23 +6,13 @@ Whether you're a developer, a Bluesky enthusiast, or just a curious user, this r
 ---
 
 ## **Table of Contents**
-- [**Awesome Bluesky Info**](#awesome-bluesky-info)
-  - [**Table of Contents**](#table-of-contents)
-  - [**Introduction**](#introduction)
-  - [**Tools and Plugins**](#tools-and-plugins)
-  - [**Resources and Guides**](#resources-and-guides)
-    - [📖 Articles](#-articles)
-    - [🎓 Tutorials](#-tutorials)
-  - [**How to Contribute**](#how-to-contribute)
-  - [**FAQs**](#faqs)
-    - [**What is Bluesky?**](#what-is-bluesky)
-    - [**How do I use this list?**](#how-do-i-use-this-list)
-    - [**Can I suggest a tool or resource?**](#can-i-suggest-a-tool-or-resource)
-  - [**Additional Resources**](#additional-resources)
-  - [**License**](#license)
-    - [**Acknowledgments**](#acknowledgments)
-    - [**Why This Repository is Useful**](#why-this-repository-is-useful)
-
+- [**Introduction**](#introduction)
+- [**Tools and Plugins**](#tools-and-plugins)
+- [**Resources and Guides**](#resources-and-guides)
+- [**How to Contribute**](#how-to-contribute)
+- [**FAQs**](#faqs)
+- [**Additional Resources**](#additional-resources)
+- [**License**](#license)
 ---
 
 ## **Introduction**
